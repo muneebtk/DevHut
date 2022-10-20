@@ -9,7 +9,7 @@
 > - forgot password with email verification
 > - Authenticated user can follow authors, like blogs and post comments
 
-### ✨ [Demo](www.devhut.ml)
+✨ [Demo](www.devhut.ml)
 
 ## Author
 
